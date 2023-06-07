@@ -1,0 +1,27 @@
+{
+  "name": "reviewit",
+  "version": "1.0.0",
+  "description": "reviewit",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cgrodrigues/reviewit.git"
+  },
+  "keywords": [
+    "review"
+  ],
+  "author": "Carlos Rodrigues",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cgrodrigues/reviewit/issues"
+  },
+  "homepage": "https://github.com/cgrodrigues/reviewit#readme",
+  "dependencies": {
+    "amazon-product-api": "^0.4.4",
+    "express": "^4.18.2",
+    "openai-api": "^1.3.1"
+  }
+}
